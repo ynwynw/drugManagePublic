@@ -11,7 +11,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot+vue的药店管理系统(源码+数据库)103
+## 基于Java+Springboot+vue的药店管理系统(源码+数据库+11000字论文+开题+ppt)103
 
 ## 一、系统介绍
 本系统前后端分离
